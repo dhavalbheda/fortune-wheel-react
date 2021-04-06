@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fortune-wheel-react/static/css/main.4fdbeeea.chunk.css",
+    "main.js": "/fortune-wheel-react/static/js/main.275f0511.chunk.js",
+    "main.js.map": "/fortune-wheel-react/static/js/main.275f0511.chunk.js.map",
+    "runtime-main.js": "/fortune-wheel-react/static/js/runtime-main.e465b526.js",
+    "runtime-main.js.map": "/fortune-wheel-react/static/js/runtime-main.e465b526.js.map",
+    "static/css/2.56c15f16.chunk.css": "/fortune-wheel-react/static/css/2.56c15f16.chunk.css",
+    "static/js/2.101a70bb.chunk.js": "/fortune-wheel-react/static/js/2.101a70bb.chunk.js",
+    "static/js/2.101a70bb.chunk.js.map": "/fortune-wheel-react/static/js/2.101a70bb.chunk.js.map",
+    "index.html": "/fortune-wheel-react/index.html",
+    "static/css/2.56c15f16.chunk.css.map": "/fortune-wheel-react/static/css/2.56c15f16.chunk.css.map",
+    "static/css/main.4fdbeeea.chunk.css.map": "/fortune-wheel-react/static/css/main.4fdbeeea.chunk.css.map",
+    "static/js/2.101a70bb.chunk.js.LICENSE.txt": "/fortune-wheel-react/static/js/2.101a70bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e465b526.js",
+    "static/css/2.56c15f16.chunk.css",
+    "static/js/2.101a70bb.chunk.js",
+    "static/css/main.4fdbeeea.chunk.css",
+    "static/js/main.275f0511.chunk.js"
+  ]
+}
